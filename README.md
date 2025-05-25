@@ -28,8 +28,8 @@ This project implements a deep learning model to classify soil images into speci
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/soil-type-classification.git
-    cd soil-type-classification
+    git clone https://github.com/Soil-Classification-Challenge-Annam.ai
+    cd Soil-Classification-Challenge-Annam.ai
     ```
 
 2. Set up your Python environment:
